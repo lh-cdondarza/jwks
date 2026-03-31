@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "unique-key-id-12345",
+      "alg": "RS256",
+      "n": "vX6...your-public-key-modulus-here...5w",
+      "e": "AQAB"
+    }
+  ]
+}
