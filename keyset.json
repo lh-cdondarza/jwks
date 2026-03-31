@@ -2,8 +2,9 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "carlostest",
+      "use": "sig",
       "alg": "RS256",
+      "kid": "SZ-EIEmleMDl6Q-qTYzfn5NWWyzOLtY_2ogmAEQj34g",
       "n": "n94akHTz8FCGI0Er4sWPWF0PqZHn-kKV-52ax9DXdEUDIN698_c29njGApRgEdgH_Gm489vzsChv9Wem4f3M2dfD-LbVaBWFMEOp_BHhWICDdkf4f89E-EhOKBbm2W_vux8VJ56XBi6aiUwSuEMtWAPnWQWY36Qgqa949H24JSy6V4URz5ySuHbIGxwIYmHrR4_E17ZShEb5mpYrbCHhCfBkJDKAdWzAGaYcbhuyTJxaVHV6PmlsUtmwGtpKYDshNkP10G-M1vrPu30BCXxIYV4PAJkZa2LTSHJkezNQW4jgbd_VbzgSkofV6IBLbEeXqgghCZlH5c3nIrMLnUu5HkHj6W7F4ObrobjnqUzvBpZeW--_aG2r5z9Hjm7fhTyfPXV3oKEZLbEv4IxYA5IuzIFMkf8oeGGrX4oax_IctZ-RT811rs9V4fyTXyedj8Ec5grh5rbQtF6H7GQQa8DuCnjBDdamZQyn9Mc-nkelZMfrQr4oxdKgSpPX9u3f0Dpd",
       "e": "AQAB"
     }
